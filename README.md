@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-👋 Hey guys! I'm Quang (call me Minh if you're Vietnamese)<br>👀 Watch this space as I have some things to commit changes to :) <br>⚡ Interests: Content Creation, Video Editing, Tech Tinkering, Creative Works
+👋 Hey guys! I'm Quang (call me Minh if you're Vietnamese)<br>👀 Watch this space as I have some things to commit changes to :) <br>⚡ Interests: Content Creation, Video Editing, Creative Works, Tech Tinkering (e.g. VMs, Cloud Servers, Dockers, IoT Devices)
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)-->
 <img align="left" width="47%" src="https://github-readme-quang.vercel.app/api?username=quangmng&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=quangmng&theme=tokyonight&hide_border=false)<br/>-->
-<img align="left" width="47%" height="20%" src="https://github-readme-quang.vercel.app/api/top-langs/?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-quang.vercel.app/api/top-langs/?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ### ✍️ Random Dev Quote
