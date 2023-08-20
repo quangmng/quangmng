@@ -1,7 +1,5 @@
 <h1>Hi there 👋</h1>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=quangmng&label=Profile%20Views&color=3&icon=5&pretty=false" />
-</a>
+
 <h2> 💫 About Me: </h2>
 👋 Hey guys! I'm Quang (call me Minh if you're Vietnamese)<br>👀 Watch this space as I have some things to commit changes to :) <br>⚡ Interests: Content Creation, Video Editing, Creative Works, Tech Tinkering (e.g. VMs, Cloud Servers, Dockers, IoT Devices)
 
