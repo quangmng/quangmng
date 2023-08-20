@@ -14,7 +14,11 @@
 # 📊 GitHub Stats:
 ## My weekly development status
 <!--START_SECTION:waka-->
-`gist:quangmng/d3688678aed63d0055b3b114c37c1a1f`
+
+```txt
+Python   9 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 <!--![](https://github-readme-stats.vercel.app/api?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)-->
 <img align="left" width="47%" src="https://github-readme-quang.vercel.app/api?username=quangmng&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
