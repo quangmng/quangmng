@@ -26,7 +26,9 @@ Management Platform: <br>![Notion](https://img.shields.io/badge/Notion-%23000000
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP     18 mins         ███████████████████████▓░   95.02 %
+Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Ezhil   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
