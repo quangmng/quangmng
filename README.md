@@ -26,8 +26,7 @@ Management Platform: <br>![Notion](https://img.shields.io/badge/Notion-%23000000
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 min           ███████████████░░░░░░░░░░   60.39 %
-Bash    0 secs          ██████████░░░░░░░░░░░░░░░   39.61 %
+Other   1 hr 8 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
