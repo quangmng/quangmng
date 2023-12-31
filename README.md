@@ -26,11 +26,11 @@ Management Platform: <br>![Notion](https://img.shields.io/badge/Notion-%23000000
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      8 hrs 37 mins   ████████████████████████▓   98.74 %
-JavaScript                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Nginx configuration file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Org                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other                      8 hrs 5 mins    ████████████████████████▓   98.73 %
+JSON                       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Nginx configuration file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 HTML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Groff                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
