@@ -27,9 +27,9 @@ Productivity Tools: <br>![Notion](https://img.shields.io/badge/Notion-%23000000.
 <!--START_SECTION:waka-->
 
 ```txt
-Swift          11 hrs 50 mins  ██████████████░░░░░░░░░░░   55.66 %
-Other          8 hrs 11 mins   █████████▓░░░░░░░░░░░░░░░   38.54 %
-Figma Design   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Swift          10 hrs 32 mins  ██████████████▓░░░░░░░░░░   58.98 %
+Other          6 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   35.41 %
+Figma Design   1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 Image (png)    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
