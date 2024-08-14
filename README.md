@@ -27,7 +27,8 @@ Productivity Tools: <br>![Notion](https://img.shields.io/badge/Notion-%23000000.
 <!--START_SECTION:waka-->
 
 ```txt
-SQL   1 min           █████████████████████████   100.00 %
+C#    9 mins          █████████████████████▒░░░   85.40 %
+SQL   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
 ```
 
 <!--END_SECTION:waka-->
