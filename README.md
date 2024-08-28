@@ -39,11 +39,6 @@ XML        7 mins          ▒░░░░░░░░░░░░░░░░�
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=quangmng&theme=tokyonight&hide_border=false)<br/>-->
 <img align="left" width="47%" src="https://github-readme-quang.vercel.app/api/top-langs/?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-
-
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=quangmng&icon=5&color=8)](https://visitcount.itsvg.in) - Thanks for peeking at my profile :)
 
