@@ -35,15 +35,14 @@ XML        23 mins         ▓░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <!--![](https://github-readme-stats.vercel.app/api?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)-->
-<img align="left" width="47%" src="https://github-readme-quang.vercel.app/api?username=quangmng&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+<img align="left"  src="https://github-readme-quang.vercel.app/api?username=quangmng&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=quangmng&theme=tokyonight&hide_border=false)<br/>-->
-<img align="left" width="47%" src="https://github-readme-quang.vercel.app/api/top-langs/?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img align="left"  src="https://github-readme-quang.vercel.app/api/top-langs/?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=quangmng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
----
-[![](https://visitcount.itsvg.in/api?id=quangmng&icon=5&color=8)](https://visitcount.itsvg.in) - Thanks for peeking at my profile :)
 
+<!--[![](https://visitcount.itsvg.in/api?id=quangmng&icon=5&color=8)](https://visitcount.itsvg.in) - Thanks for peeking at my profile :) 
 ## 💰 pls help I need some cash for surviving-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/qmng) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/quangmng) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/quack) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/qmng) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/quangmng) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/quack) -->
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
