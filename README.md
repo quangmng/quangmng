@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 <h2> 💫 About Me: </h2>
-👋 Hey guys! I'm Quang (call me Minh if you're Vietnamese - I made a blog post for it <a href="https://blog.quang.au/The-Q-Logo-1ffbc25a16264dceb02d8aac9ceda137">here.</a>)<br>👀 Watch this space as I have some things to commit changes to :) <br>⚡ Interests: Content Creation, Video Editing, Creative Works, Tech Tinkering (e.g. VMs, Cloud Servers, Dockers, IoT Devices)
+👋 Hey guys! I'm Quang (call me Minh if you're Vietnamese - I made a blog post for it <a href="https://blog.quang.au/The-Q-Logo-1ffbc25a16264dceb02d8aac9ceda137">here.</a>)<br>👀 Watch this space as I have some things to commit to :) <br>⚡ Interests: Content Creation, Video Editing, Creative Works are my blue pills. Tech Tinkering (e.g. VMs, Cloud Servers, Dockers, IoT Devices & KVMs are my red pills)
 
 
 <h2> 🌐 Socials: </h2>
