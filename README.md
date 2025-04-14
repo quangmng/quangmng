@@ -28,11 +28,11 @@ Productivity Tools: <br>![Notion](https://img.shields.io/badge/Notion-%23000000.
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)        3 hrs 32 mins   ███████████░░░░░░░░░░░░░░   44.23 %
-Swift              3 hrs 14 mins   ██████████░░░░░░░░░░░░░░░   40.40 %
-Other              42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Git Config         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-XML                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Swift              4 hrs 16 mins   ████████████░░░░░░░░░░░░░   47.82 %
+Image (svg)        3 hrs 26 mins   █████████▓░░░░░░░░░░░░░░░   38.42 %
+Other              42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Git Config         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+XML                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
